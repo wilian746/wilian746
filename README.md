@@ -7,6 +7,9 @@ My name is Wilian Gabriel da Silva. I work as a Development Analyst and working 
 
 ![](images/github-user-contribution.svg)
 
+### Access my other accounts 🙋‍♂️
+- [wiliansilvazup](https://github.com/wiliansilvazup)
+
 ### Languages & Tools 🛠
 
 ![Golang](https://img.shields.io/badge/-Golang%20❤️-05122A?style=flat&logo=go&logoColor=white)&nbsp;
