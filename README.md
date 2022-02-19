@@ -3,7 +3,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
 
-My name is Wilian Gabriel da Silva. I work as a Development Analyst and working at [Zup Innovation](www.zup.com.br).
+My name is Wilian Gabriel da Silva. I work as a Development Analyst and working at [Zup Innovation](https://zup.com.br).
 
 ![](images/github-user-contribution.svg)
 
